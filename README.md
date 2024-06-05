@@ -21,7 +21,7 @@ This year-long course also included a 9-week unit in Electronics that is not inc
 * Week 17 - Classes
 * Week 18 - Python Turtle
 * Week 19 - Python Turtle Animation
-* Week 20 - Tkinter GUI
+* Week 20 - Tkinter GUI Intro
 * Week 21 - Tkinter GUI
 * Week 22 - Tkinter GUI Project
 * Week 23 - Python Web Server
