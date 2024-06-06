@@ -1,21 +1,3 @@
-# Instructions  
-
- ## Code along with Instructor
- Hands on keyboard discovery of variables
- Type following code into IDE and run to show output
-
-## Code: 
-# Let's make some decisions!
-# Vocab: Selection, condition, branch
-Selection:
-Condition:
-Branch: 
-# Create some variables
-# Create an if statements
-# Use the tab
-# Create an else statement
-# Play with the conditional options: > < >= <= != ==
-
 x = int(input("Insert a whole number: "))
 if x > 3:
     print("x is greater than 3")
@@ -39,8 +21,3 @@ if x != 6 or x == 7:
     print("also a success")
 else:
     print("also a failure")
-
-# Expected Output:
-Enter a number: 1
-failure
-also a success
