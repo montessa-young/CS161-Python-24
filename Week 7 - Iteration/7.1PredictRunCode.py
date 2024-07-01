@@ -13,7 +13,7 @@ while answer != "Paris":
 
 print("Correct!")
 
-# The loop will repeat until the user inputs the correct answer which in this case is Paris.
+# Code Comment -
 
 # Example code 2
 
@@ -23,4 +23,4 @@ while counter < 5:
     print("This code is inside the loop")
     counter += 1
 
-# The print code will repeat until the counter hits 4 because of the condition set.
+# Code Comment -
